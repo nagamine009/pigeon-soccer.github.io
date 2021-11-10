@@ -235,6 +235,8 @@ ss_warning_label{
     }
 }
 
-/* 2021.10.27.nagamine. */
-
+/* 2021.11.10.nagamine. */
+.ss_input{
+  display: inline-block;
+}
 
